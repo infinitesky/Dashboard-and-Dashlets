@@ -1,2 +1,2 @@
-# angularjs
-angular js project
+# Dashboard-and-Dashlets
+Dashboard WebApp with multiple dashlets 
